@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Will Allison
 
-<!--
-**Will-Allison-EUGH/Will-Allison-EUGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CTO at **EUGameHost.com** & **NorwichDC**.
 
-Here are some ideas to get you started:
+I work across **backend development, hosting infrastructure, networking, automation, and data centre systems** - building reliable platforms and the tooling behind them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- Hosting platforms and internal tooling
+- Backend systems and automation
+- Network infrastructure and routing
+- Data centre operations and monitoring
+- Control panels, integrations, and custom platforms
+
+## Current focus
+
+Building and improving the systems behind **EUGameHost**, with a strong focus on reliability, performance, and practical engineering.
+
+## Tech / areas I work in
+- PHP
+- JavaScript
+- SQL / MySQL
+- Linux
+- Networking
+- Infrastructure automation
+- Systems integration
+
+## About me
+
+I like building things properly - whether that’s backend services, infrastructure, internal dashboards, or the operational systems that keep everything running.
+
+## Links
+
+- Website: [eugamehost.com](https://www.eugamehost.com)
+- Website: [norwichdc.com](https://norwichdc.com)
+- Website: [www.will-allison.uk](https://www.will-allison.uk)
