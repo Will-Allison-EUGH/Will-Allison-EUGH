@@ -1,10 +1,10 @@
-# Hi, I'm Will Allison
+# Hi, I'm Will Allison 👋
 
-CTO at **EUGameHost.com** & **NorwichDC**.
+CTO at **EUGameHost.com** & **NorwichDC** 🚀
 
 I work across **backend development, hosting infrastructure, networking, automation, and data centre systems** - building reliable platforms and the tooling behind them.
 
-## What I work on
+## 🛠️ What I work on
 
 - Hosting platforms and internal tooling
 - Backend systems and automation
@@ -12,11 +12,12 @@ I work across **backend development, hosting infrastructure, networking, automat
 - Data centre operations and monitoring
 - Control panels, integrations, and custom platforms
 
-## Current focus
+## 🎯 Current focus
 
 Building and improving the systems behind **EUGameHost**, with a strong focus on reliability, performance, and practical engineering.
 
-## Tech / areas I work in
+## 💻 Tech / areas I work in
+
 - PHP
 - JavaScript
 - SQL / MySQL
@@ -25,12 +26,12 @@ Building and improving the systems behind **EUGameHost**, with a strong focus on
 - Infrastructure automation
 - Systems integration
 
-## About me
+## ⚙️ About me
 
 I like building things properly - whether that’s backend services, infrastructure, internal dashboards, or the operational systems that keep everything running.
 
-## Links
+## 🔗 Links
 
-- Website: [eugamehost.com](https://www.eugamehost.com)
-- Website: [norwichdc.com](https://norwichdc.com)
-- Website: [www.will-allison.uk](https://www.will-allison.uk)
+- 🌐 [eugamehost.com](https://www.eugamehost.com)
+- 🌐 [norwichdc.com](https://norwichdc.com)
+- 🌐 [will-allison.uk](https://www.will-allison.uk)
